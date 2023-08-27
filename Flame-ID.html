@@ -10,40 +10,47 @@
 
 </head>
 <body>
-
-    <div class="search">
-        Search for a location
-        <input type="text" maxlength="240" class="search-location">
-
+    <div class="Search">
+        <h1>Flame-ID</h1>
+        <input type="text" id="query" placeholder="Search for a location">
+        <button onclick="search()">Search</button>
+        <div id="fireCenterName"></div>
+        <div id="incidentSize"></div>
+        <div id="incidentLocation"></div>
+        <div id="stageOfControlCode"></div>
+        <div id="incidentSizeDetail"></div>
+        <div id="incidentCauseDetail"></div>
+      </div>
+      <script src="myScript.js"></script>
+      
     </div>
-    <H1 class="Logo">Flame-ID</H1>
     <span class="slogan">Blockchain infused real-time wildfire data and alerts</span>
 
     <div class="container">
         <div class="left">
-            <div class="fire-center">
+            <div class="fire-center" id="fireCenterName">
                 <h3>Regional FireCentre</h3> <br>
                 <img src="./images/bxs-hot.svg" alt="" class="img">
             </div>
-            <div class="location">
+            <div class="location" id="incidentLocation">
                 <h3>Location</h3> <br>
                 <img src="./images/bxs-hot.svg" alt="" class="img">
             </div>
-            <div class="size">
+            <div class="size" id="incidentSize">
                 <h3>Incident Size</h3> <br>
                 <img src="./images/bxs-hot.svg" alt="" class="img">
             </div>
-            <div class="stage">
+            <div class="stage" id="stageOfControlCode">
                 <h3>Stage</h3> <br>
                 <img src="./images/bxs-hot.svg" alt="" class="img">
             </div>
         </div>
         <div class="right">
-            <div class="cause">
+            <div class="cause" id="incidentCauseDetail">
                 <h3>Incident Cause Detial</h3> <br>
                 <img src="./images/bxs-hot.svg" alt="" class="img">
             </div>
-            <div class="size-detail">
+            <div class="size-detail" id="incidentSizeDetail">
                 <h3>Incident Size Detial</h3> <br>
                 <img src="./images/bxs-hot.svg" alt="" class="img">
             </div>

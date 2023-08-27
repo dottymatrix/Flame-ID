@@ -1,3 +1,66 @@
+// Import the Flow standard library
+import FungibleToken from 0x9a0766d93b6608b7
+
+// Define a variable that stores the file path of the CSV file
+let filePath = "./wildfire_info.csv"
+
+// Use the getAsciiWave function to read the CSV file and parse it into an array of strings
+let data = getAsciiWave(filePath)
+
+
+
+// Write a JavaScript function that takes a user query as a parameter and searches the CSV file for the matching data
+function search() {
+  // Get the user query from the input element
+  let query = document.getElementById("query").value;
+
+  // Filter the data array and return an array of objects that match the query
+  let results = data.filter(function(obj) {
+    // Check if the incidentLocation property of the object includes the query
+    return obj.incidentLocation.includes(query);
+  });
+
+  // Display the results in the app using another function
+  display(results);
+}
+
+// Write a JavaScript function that takes an array of objects as a parameter and displays the data in the app
+function display(results) {
+  // Get the div elements from the HTML document by using their id attributes
+  let fireCenterName = document.getElementById("fireCenterName");
+  let incidentSize = document.getElementById("incidentSizeEstimatedHa");
+  let incidentLocation = document.getElementById("incidentLocation");
+  let stageOfControlCode = document.getElementById("stageOfControlCode");
+  let incidentSizeDetail = document.getElementById("incidentSizeDetail");
+  let incidentCauseDetail = document.getElementById("incidentCauseDetail");
+
+  // Check if there are any results
+  if (results.length > 0) {
+    // If yes, get the first object from the results array
+    let result = results[0];
+
+    // Assign each div element with a property-value pair from the object
+    fireCenterName.textContent = "Regional Fire Centre: " + result.fireCenterName;
+    incidentSize.textContent = "Incident Size: " + result.incidentSize;
+    incidentLocation.textContent = "Incident Location: " + result.incidentLocation;
+    stageOfControlCode.textContent = "Stage: " + result.stageOfControlCode;
+    incidentSizeDetail.textContent = "Incident Size Detail: " + result.incidentSizeDetail;
+    incidentCauseDetail.textContent = "Incident Cause Detail: " + result.incidentCauseDetail;
+  } else {
+    // If no, display a message that says "No results found"
+    fireCenterName.textContent = "No results found";
+    incidentSize.textContent = "";
+    incidentLocation.textContent = "";
+    stageOfControlCode.textContent = "";
+    incidentSizeDetail.textContent = "";
+    incidentCauseDetail.textContent = "";
+  }
+}
+
+
+
+
+
 // Import the Hedera SDK for JavaScript
 const { HederaClient, AccountId, PrivateKey, TransferTransaction } = require("@hashgraph/sdk");
 
