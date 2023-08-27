@@ -122,3 +122,9 @@ body {background-color: rgb(110, 135, 248, 0.4);}
     border-radius: 8px;
     cursor: pointer;
 }
+.img{
+height: 42;
+}
+.imgs{
+height: 30;
+}
