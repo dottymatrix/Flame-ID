@@ -37,7 +37,7 @@ async function Environment() {
     const TransactionRx = await sendHbar.getReceipt(client);
     console.log("Status of txn:" +(TransactionRx.status));
     
-    //Check the account's new balance
+    //check the account's new balance
     const getNewBalance = await new AccountBalanceQuery()
         .setAccountId(newAccountId)
         .execute(client);

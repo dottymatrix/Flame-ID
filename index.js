@@ -20,7 +20,8 @@ async function Environment() {
 
     //Set the default maximum transaction fee & max query payment (in Hbar)
     client.setDefaultMaxTransactionFee(new Hbar(100));
-    client.setMaxQueryPayment(new Hbar(50));
+
+    client.setMaxQueryPayment(new Hbar(100));
 
     //Create new keys
     const newAccountPrivateKey = PrivateKey.generateED25519(); 
