@@ -10,5 +10,5 @@ response = requests.get(url)
 # parse the response as a JSON object
 json_data = json.loads(response.text)
 
-# print the JSON object
+# print the JSON objects or keys for the url
 print(json_data.keys())

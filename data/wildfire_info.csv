@@ -1,0 +1,341 @@
+incidentNumberLabel,incidentLocation,incidentSizeEstimatedHa,stageOfControlCode,lastUpdatedTimestamp,incidentNumberLabel,incidentName,incidentSizeDetail,incidentCauseDetail
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
+V82558,Mount Con Reid - Strathcona Provincial Park,2320.0,HOLDING,1696542280168,V82558,MOUNT CON REID,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83039,W of Cal Inlet,1.2,HOLDING,1696541632115,V83039,MT HAWKINS #1,,
+V83037,E of Cal Inlet,53.2,HOLDING,1696541521209,V83037,W OF FULMORE LAKE -,,
+V83111,Tennent Lake,7.0,HOLDING,1696541456407,V83111,TENNENT LAKE,,
+G80175,West of Cameron River,385.0,UNDR_CNTRL,1696539610476,G80175,Cameron River,Fire size is based on most current information available.,"Humans start wildfires in several ways, either by accident or intentionally."
+V83128,Thelwood Creek,1217.1,HOLDING,1696536853527,V83128,THELWOOD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V83063,Donner Lake ,0.75,UNDR_CNTRL,1696535774232,V83063,Donner Lake ,,
+V93289,West of the Klinaklini River,433.0,OUT_CNTRL,1696531251216,V93289,V93289,,
+R11387,14.6 km N of Ghitezli Lake,12142.0,OUT_CNTRL,1696530343329,R11387,WELLS CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R21178,600 metres west of Peacock Creek,1444.72,HOLDING,1696530175135,R21178,PEACOCK CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA2756,SE of Mount Stupendous - MONITOR ONLY,0.009000000000000001,UNDR_CNTRL,1696529858963,VA2756,TSINI TSINI CREEK,,
+V83080,E of Tlools Lake,8.18,HOLDING,1696529046720,V83080,TIOOLS LAKE #2,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+V93051,Sargeaunt Passage,0.9,UNDR_CNTRL,1696528917002,V93051,SARGEAUNT PASSAGE,,
+R13093,John Buchanan Island,913.0,HOLDING,1696528399791,R13093,R13093,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R11388,8.1 km S of Chief Louis Lake,2779.0,UNDR_CNTRL,1696528347312,R11388,R11388,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+VA3107,2km W of Kimsquit River - MONITOR ONLY,48.1,UNDR_CNTRL,1696526988112,VA3107,POLLARD CREEK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R41510,1.5km N Woodcock Airport,105.0,UNDR_CNTRL,1696523974435,R41510,WOODCOCK,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31585,Chapman FSR,520.0,UNDR_CNTRL,1696523934877,R31585,HOLLAND LAKE,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31465,4km SW Nilkitkwa Dam,639.0,UNDR_CNTRL,1696523916748,R31465,NILKITKWA,Fire size is based on most current information available.,When lightning strikes an object it can release enough heat to ignite a tree or other fuels.
+R31391,5km SE of Mount Horetzky,3030.0,UNDR_CNTRL,1696523875468,R31391,480 ROAD,Fire size is based on most current information available.,"Wildfire investigations often take time and can be very complex. Investigations may be carried out by one or more agencies, including the BC Wildfire Service, the Compliance and Enforcement Branch, the RCMP, or other law enforcement agencies, and may be cross jurisdictional."
