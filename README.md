@@ -9,7 +9,7 @@ Flame ID is a Dapp that provides users with real-time data and alerts on wildfir
 Potential data from tweets and public local fire websites aggregated with Hedera consensus service(HCS), with smart contracts deployed on Flow blockchain.
 
 ## How we built it 🪄
-Frontend with **HTML, CSS, and Javascript** - display data and alerts.
-**Web3.js** or **flow.js** to interact with blockchain or smart contract using Javascript.
-Using the Hedera Mirror Node API and the Flow Access API. The app is executed via JavaScript, the Hedera SDK, and the Flow JS SDK to query blockchain backend. 
-A Python script gathers Fire data from the web before it is cleaned up for request by the app dashboard.
+- Frontend with **HTML, CSS, and Javascript** - display data and alerts.
+- A Python script gathers Fire data from the web before it is cleaned up for request by the app dashboard.
+- **Web3.js** or **flow.js** to interact with blockchain or smart contract using Javascript.
+- Using the Hedera Mirror Node API and the Flow Access API, the app is executed via JavaScript, the Hedera SDK, and the Flow JS SDK to query blockchain backend. 
