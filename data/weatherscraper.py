@@ -53,7 +53,7 @@ df = pd.read_json('wildfire_data.json')
 # select the columns that contain the key wildfire information
 df = df[['incidentNumberLabel', 'incidentLocation', 'incidentSizeEstimatedHa', 'stageOfControlCode', 'lastUpdatedTimestamp', 'incidentNumberLabel', 'incidentName', 'incidentSizeDetail', 'incidentCauseDetail']]
 # write the dataframe to a CSV file
-df.to_csv('wildfire_info.csv', index=False)
+df.to_csv('wildfire_data.csv', index=False)
 
 # open the JSON file in read mode
 with open('wildfire_data.json', 'r') as f:
